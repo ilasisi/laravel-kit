@@ -6,5 +6,12 @@
     "name": "Ibrahim Lasisi"
   },
   "license": "MIT",
-  "keywords": ["laravel", "pest", "pint", "livewire"]
+  "keywords": [
+    "laravel",
+    "pest",
+    "pint",
+    "livewire"
+  ],
+  "homepage": "https://github.com/ilasisi/laravel-kit",
+  "repository": "https://github.com/ilasisi/laravel-kit"
 }

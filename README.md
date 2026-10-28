@@ -18,11 +18,11 @@ Requires `node` and `jq` on the PATH.
 claude --plugin-dir ~/development/laravel-kit
 ```
 
-## Install from the marketplace
+## Install
 
 ```bash
-claude plugin marketplace add ~/development/laravel-kit
+claude plugin marketplace add ilasisi/laravel-kit
 claude plugin install laravel-kit@laravel-kit
 ```
 
-After pushing to GitHub, others can use `claude plugin marketplace add <owner>/laravel-kit`.
+Or from a local clone: `claude plugin marketplace add ./laravel-kit`.
