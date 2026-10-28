@@ -1,0 +1,10 @@
+{
+  "name": "laravel-kit",
+  "version": "0.1.0",
+  "description": "Laravel workflow helpers: test-changed command, new-feature skill, Pest test-writer agent, auto-Pint hook and a routes MCP server.",
+  "author": {
+    "name": "Ibrahim Lasisi"
+  },
+  "license": "MIT",
+  "keywords": ["laravel", "pest", "pint", "livewire"]
+}

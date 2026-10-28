@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "laravel-routes": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp/routes-server.mjs"]
+    }
+  }
+}

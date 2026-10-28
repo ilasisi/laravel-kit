@@ -1,0 +1,16 @@
+{
+  "name": "laravel-kit",
+  "owner": {
+    "name": "Ibrahim Lasisi"
+  },
+  "plugins": [
+    {
+      "name": "laravel-kit",
+      "source": "./",
+      "description": "Laravel workflow helpers: commands, skills, agents, hooks and an MCP server."
+    }
+  ],
+  "metadata": {
+    "description": "Laravel workflow helpers for Claude Code"
+  }
+}

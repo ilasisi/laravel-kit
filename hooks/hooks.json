@@ -1,0 +1,17 @@
+{
+  "description": "Format PHP files with Laravel Pint after Claude edits them",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PLUGIN_ROOT}/hooks/pint-format.sh\"",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}
